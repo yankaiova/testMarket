@@ -1,4 +1,7 @@
-# React + TypeScript + Vite
+**Реализован функционал корзины**
+
+
+ React + TypeScript + MobX + Vite 
 
 ## Available Scripts
 
@@ -10,3 +13,5 @@ This command installs a package and any packages that it depends on.
 ### `npm run dev`
 
 Runs the app in the development mode.
+
+
